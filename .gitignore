@@ -1,0 +1,12 @@
+# Compiled native helper binary (auto-compiled on first run)
+Win32Helper.exe
+*.exe
+*.pdb
+
+# Obsidian runtime plugin data
+data.json
+
+# Node / OS files
+node_modules/
+.DS_Store
+Thumbs.db

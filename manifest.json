@@ -1,0 +1,9 @@
+{
+  "id": "window-docker",
+  "name": "Window Docker",
+  "version": "1.0.0",
+  "minAppVersion": "1.0.0",
+  "description": "Dock external desktop windows (such as WeChat, Edge, ChatGPT, FlClash, and terminals) directly into tabs and sidebars on Windows.",
+  "author": "Wu Dongyang",
+  "isDesktopOnly": true
+}
